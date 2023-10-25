@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="Midtermexamstyle.css">
+    </head>
+        <body>
+            <div class="container">
+                <div class="topper">
+                    <a href="Midtermexam.html"><img src="./backg.png"  class="logo"; style="width: 50px;" height="50px" margin="0";></a>
+                    <ul>
+                        <li><a href="Midtermexam.html">Home</a></li>
+                        <li><a href="M-Emune.html">Products</a></li>
+                        <a href="M-Elogin.html"><button class="login">Logout</button></a>
+                    </ul>
+                    
+                </div>
+                <div class="midder">
+                     <h1>Thank you for buying!</h1> 
+
+                    <div>
+                        <a href="M-Emune.html""><button class="ordernow" type="button"><span></span>ORDER AGAIN</button></a>
+                    </div>
+                </div>
+                
+                <div class="down">
+                    <a href="Midtermexam.html"><img src="./backg.png" class="logodown" style="width: 50px;" height="50px" margin="0";></a>
+                    <p> 
+                        © 2023 Bigbrew Inc.
+                    </p> 
+                    <div class="last">
+                        <a href="Midtermexam.html" class="home">Home</a>
+                        <a href="M-Emune.html" class="menu">Products</a>
+                    </div>
+                </div>
+            </div>
+        </body>
+    
+</html>
