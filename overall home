@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="Midtermexamstyle.css">
+    </head>
+        <body>
+            <div class="container">
+                <div class="topper">
+                    <a href="Midtermexam.html"><img src="./backg.png"  class="logo"; style="width: 50px;" height="50px" margin="0";></a>
+                    <ul>
+                        <li><a href="Midtermexam.html">Home</a></li>
+                        <li><a href="M-Emune.html">Products</a></li>
+                        <a href="M-Elogin.html"><button class="login">Logout</button></a>
+                    </ul>
+                    
+                </div>
+                <div class="midder">
+                     <h1>Big Brew</h1> 
+                     <p> Big Brew is a café in the Philippines that offers a variety of hot and cold 
+                        <br> snacks, and food items. Their menu consists of coffee, tea, and 
+                        <br> other beverages to satisfy customers cravings. Big Brew takes pride in their 
+                        <br> best-selling Hot Brew menu, which includes Brusko Hot Brew, Choco Hot Brew, 
+                        <br> Moca Hot Brew, Karamel Hot Brew, and Matcha Hot Brew. 
+                    </p> 
+                    <p> They claim that these are the best brews available in the Philippines. Apart 
+                        <br> from their signature brews, Big Brew also offers other snacks and food items 
+                        <br> to complement their beverages. 
+                    </p> 
+                    <div>
+                        <a href="M-Emune.html"><button class="ordernow" type="button"><span></span>ORDER NOW</button></a>
+                    </div>
+                </div>
+                <div class="product">
+                    <h4>MENU</h4>
+                    
+                    <div class="tea">
+                        <img src="./OKINAWA.jpg" class="imgtea";>
+                        <h2>Okinawa Milk Tea</h2>
+                        <h6>₱ 39.00</h6>
+                        <a href="M-Ethank.html"><button class="buy1">Buy Now</button></a>
+                    </div>
+                    <div class="tea">
+                        <img src="./WINTERMELON MILKTEA.jpg" class="imgtea";>
+                        <h2>Wintermelon Milk Tea</h2>
+                        <h6>₱ 39.00</h6>
+                        <a href="M-Ethank.html"><button class="buy1">Buy Now</button></a>
+                    </div>
+                    <div class="tea">
+                        <img src="./RED VELVET.jpg" class="imgtea";>
+                        <h2>Red Velvet Milk Tea</h2>
+                        <h6>₱ 39.00</h6>
+                        <a href="M-Ethank.html"><button class="buy1">Buy Now</button></a>
+                    </div>
+                    <div class="tea">
+                        <img src="./SALTED MILKTEA.jpg" class="imgtea";>
+                        <h2>Salted Caramel Milk Tea</h2>
+                        <h6>₱ 39.00</h6>
+                        <a href="M-Ethank.html"><button class="buy1">Buy Now</button></a>
+                    </div>
+                    <div class="tea">
+                        <img src="./DARK CHOCO 1.jpg" class="imgtea";>
+                        <h2>Dark Chocolate Milk Tea</h2>
+                        <h6>₱ 39.00</h6>
+                        <a href="M-Ethank.html"><button class="buy1">Buy Now</button></a>
+                    </div>
+                    <div class="tea">
+                        <img src="./DARK CHOCO.jpg" class="imgtea";>
+                        <h2>Chocolate Milk Tea</h2>
+                        <h6>₱ 39.00</h6>
+                        <a href="M-Ethank.html"><button class="buy1">Buy Now</button></a>
+                    </div>
+                    <div class="tea">
+                        <img src="./TARO.jpg" class="imgtea";>
+                        <h2>Taro Milk Tea</h2>
+                        <h6>₱ 39.00</h6>
+                        <a href="M-Ethank.html"><button class="buy1">Buy Now</button></a>
+                    </div>
+                    <div class="tea">
+                        <img src="./CHOCO BERRY.jpg" class="imgtea";>
+                        <h2>Chocoberry Milk Tea</h2>
+                        <h6>₱ 39.00</h6>
+                        <a href="M-Ethank.html"><button class="buy1">Buy Now</button></a>
+                    </div>
+                    <div class="tea">
+                        <img src="./STRAWBERRY.jpg"class="imgtea";>
+                        <h2>Strawberry Milk Tea</h2>
+                        <h6>₱ 39.00</h6>
+                        <a href="M-Ethank.html"><button class="buy1">Buy Now</button></a>
+                    </div>
+                    <div class="tea">
+                        <img src="./MATCHA.jpg" class="imgtea";>
+                        <h2>Matcha Milk Tea</h2>
+                        <h6>₱ 39.00</h6>
+                        <a href="M-Ethank.html"><button class="buy1">Buy Now</button></a>
+                    </div>
+                </div>
+                <div class="down">
+                    <a href="Midtermexam.html"><img src="./backg.png" class="logodown" style="width: 50px;" height="50px" margin="0";></a>
+                    <p> 
+                        © 2023 Bigbrew Inc.
+                    </p> 
+                    <div class="last">
+                        <a href="Midtermexam.html" class="home">Home</a>
+                        <a href="M-Emune.html" class="menu">Products</a>
+                    </div>
+                </div>
+            </div>
+        </body>
+    
+</html>
